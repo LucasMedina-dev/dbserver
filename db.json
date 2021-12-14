@@ -193,15 +193,22 @@
       "id": 28,
       "name": "Producto 28",
       "price": 999,
-      "category": "ram",
+      "category": "placa de video",
       "description": "Esta es la descripcion del producto 28"
     },
     {
       "id": 29,
       "name": "Producto 29",
       "price": 999,
-      "category": "ram",
+      "category": "placa de video",
       "description": "Esta es la descripcion del producto 29"
+    },
+    {
+      "id": 30,
+      "name": "Producto 30",
+      "price": 999,
+      "category": "placa de video",
+      "description": "Esta es la descripcion del producto 30"
     }
   ]
 }
