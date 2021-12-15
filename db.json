@@ -240,5 +240,6 @@
       "description": "Esta es la descripcion del producto 30",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg"
     }
-  ]
+  ],
+  "categorias":[{"mother","ram","placa de video","procesador"}]
 }
