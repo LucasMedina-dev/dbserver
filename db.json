@@ -7,7 +7,8 @@
       "category": "mother",
       "description": "Esta es la descripcion del producto 1",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":15
+      "stock":15,
+      "quantity":""
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "category": "mother",
       "description": "Esta es la descripcion del producto 2",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":10
+      "stock":10,
+      "quantity":""
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "category": "mother",
       "description": "Esta es la descripcion del producto 3",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":20
+      "stock":20,
+      "quantity":""
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "category": "mother",
       "description": "Esta es la descripcion del producto 4",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":18
+      "stock":18,
+      "quantity":""
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "category": "mother",
       "description": "Esta es la descripcion del producto 5",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":13
+      "stock":13,
+      "quantity":""
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "category": "mother",
       "description": "Esta es la descripcion del producto 6",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":35
+      "stock":35,
+      "quantity":""
     },
     {
       "id": 7,
@@ -61,7 +67,8 @@
       "category": "mother",
       "description": "Esta es la descripcion del producto 7",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":30
+      "stock":30,
+      "quantity":""
     },
     {
       "id": 8,
@@ -70,7 +77,8 @@
       "category": "mother",
       "description": "Esta es la descripcion del producto 8",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":10
+      "stock":10,
+      "quantity":""
     },
     {
       "id": 9,
@@ -79,7 +87,8 @@
       "category": "mother",
       "description": "Esta es la descripcion del producto 9",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":21
+      "stock":21,
+      "quantity":""
     },
     {
       "id": 10,
@@ -88,7 +97,8 @@
       "category": "mother",
       "description": "Esta es la descripcion del producto 10",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":60
+      "stock":60,
+      "quantity":""
     },
     {
       "id": 11,
@@ -97,7 +107,8 @@
       "category": "procesador",
       "description": "Esta es la descripcion del producto 11",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":15
+      "stock":15,
+      "quantity":""
     },
     {
       "id": 12,
@@ -106,7 +117,8 @@
       "category": "procesador",
       "description": "Esta es la descripcion del producto 12",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":60
+      "stock":60,
+      "quantity":""
     },
     {
       "id": 13,
@@ -115,7 +127,8 @@
       "category": "procesador",
       "description": "Esta es la descripcion del producto 13",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":10
+      "stock":10,
+      "quantity":""
     },
     {
       "id": 14,
@@ -124,7 +137,8 @@
       "category": "procesador",
       "description": "Esta es la descripcion del producto 14",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":20
+      "stock":20,
+      "quantity":""
     },
     {
       "id": 15,
@@ -133,7 +147,8 @@
       "category": "procesador",
       "description": "Esta es la descripcion del producto 15",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":5
+      "stock":5,
+      "quantity":""
     },
     {
       "id": 16,
@@ -142,7 +157,8 @@
       "category": "procesador",
       "description": "Esta es la descripcion del producto 16",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":10
+      "stock":10,
+      "quantity":""
     },
     {
       "id": 17,
@@ -151,7 +167,8 @@
       "category": "procesador",
       "description": "Esta es la descripcion del producto 17",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":20
+      "stock":20,
+      "quantity":""
     },
     {
       "id": 18,
@@ -160,7 +177,8 @@
       "category": "procesador",
       "description": "Esta es la descripcion del producto 18",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":10
+      "stock":10,
+      "quantity":""
     },
     {
       "id": 19,
@@ -169,7 +187,8 @@
       "category": "procesador",
       "description": "Esta es la descripcion del producto 19",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":10
+      "stock":10,
+      "quantity":""
     },
     {
       "id": 20,
@@ -178,7 +197,8 @@
       "category": "ram",
       "description": "Esta es la descripcion del producto 20",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":10
+      "stock":10,
+      "quantity":""
     },
     {
       "id": 21,
@@ -187,7 +207,8 @@
       "category": "ram",
       "description": "Esta es la descripcion del producto 21",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":10
+      "stock":10,
+      "quantity":""
     },
     {
       "id": 22,
@@ -196,7 +217,8 @@
       "category": "ram",
       "description": "Esta es la descripcion del producto 22",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":10
+      "stock":10,
+      "quantity":""
     },
     {
       "id": 23,
@@ -205,7 +227,8 @@
       "category": "ram",
       "description": "Esta es la descripcion del producto 23",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":10
+      "stock":10,
+      "quantity":""
     },
     {
       "id": 24,
@@ -214,7 +237,8 @@
       "category": "ram",
       "description": "Esta es la descripcion del producto 24",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":10
+      "stock":10,
+      "quantity":""
     },
     {
       "id": 25,
@@ -223,7 +247,8 @@
       "category": "ram",
       "description": "Esta es la descripcion del producto 25",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":15
+      "stock":15,
+      "quantity":""
     },
     {
       "id": 26,
@@ -232,7 +257,8 @@
       "category": "ram",
       "description": "Esta es la descripcion del producto 26",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":15
+      "stock":15,
+      "quantity":""
     },
     {
       "id": 27,
@@ -241,7 +267,8 @@
       "category": "ram",
       "description": "Esta es la descripcion del producto 27",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":10
+      "stock":10,
+      "quantity":""
     },
     {
       "id": 28,
@@ -250,7 +277,8 @@
       "category": "ram",
       "description": "Esta es la descripcion del producto 28",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":20
+      "stock":20,
+      "quantity":""
     },
     {
       "id": 29,
@@ -259,7 +287,8 @@
       "category": "ram",
       "description": "Esta es la descripcion del producto 29",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":25
+      "stock":25,
+      "quantity":""
     },
     {
       "id": 30,
@@ -268,7 +297,8 @@
       "category": "video",
       "description": "Esta es la descripcion del producto 30",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
-      "stock":10
+      "stock":10,
+      "quantity":""
     }
   ]
 }
